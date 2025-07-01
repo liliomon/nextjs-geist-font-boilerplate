@@ -1,0 +1,1 @@
+ /project/sandbox/user-workspace/wock_app/.dart_tool/flutter_build/e69d829fcb0cde57503aa44d9b91fa77/native_assets.yaml: 
